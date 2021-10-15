@@ -5,7 +5,7 @@ This is the free Admon Template that you can find in https://startbootstrap.com/
 - DataTables
 - jQuery
 
-# Upadted code for PHP
+# Updated code for PHP
 Here you will find the version that I usually made for a PHP project, I hope that you will learn something new fron this kind of works
 
 # Last Update
