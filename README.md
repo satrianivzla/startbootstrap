@@ -11,6 +11,10 @@ This is the free Admon Template that you can find in https://startbootstrap.com/
 
 # Updated code for PHP
 Here you will find the version that I usually made for a PHP project, I hope that you will learn something new fron this kind of works
+- There is a file called data.php that you can find in the includes folder, where I saved constants used in the project
+- There is a file called favicon.php that is related to add to all files the source related to the FavIcon itself
+-  
+
 
 # Last Update
-Octoner 14, 2021
+Octoner 16, 2021
