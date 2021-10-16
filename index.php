@@ -1,4 +1,7 @@
-<?php include("includes/header.php");  ?>
+<?php 
+include("includes/data.php"); 
+include("includes/header.php");  
+?>
 
 <body id="page-top">
 
@@ -32,7 +35,6 @@
                     <!-- End of Content Row Earnings Card Example -->
 
                     <div class="row">
-
                         <!-- Area Chart -->
                         <?php include("includes/home_cards_earning_overview.php");  ?>
                         <!-- End of Area Chart -->
@@ -43,7 +45,6 @@
 
                     <!-- Content Row -->
                     <div class="row">
-
                         <!-- Content Column -->
                         <div class="col-lg-6 mb-4">
 
@@ -58,7 +59,6 @@
                         </div>
 
                         <div class="col-lg-6 mb-4">
-
                             <!-- Illustrations -->
                             <?php include("includes/home_cards_illustrations.php");  ?> 
                             <!-- End of Illustrations -->
@@ -84,9 +84,7 @@
     <!-- End of Page Wrapper -->
 
     <!-- Scroll to Top Button-->
-    <a class="scroll-to-top rounded" href="#page-top">
-        <i class="fas fa-angle-up"></i>
-    </a>
+    <a class="scroll-to-top rounded" href="#page-top"><i class="fas fa-angle-up"></i></a>
 
     <!-- Logout Modal-->
     <?php include("includes/logout_modal_form.php");  ?>  
